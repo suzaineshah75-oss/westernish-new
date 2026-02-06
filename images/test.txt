@@ -1,1 +1,6 @@
+images/products-img/test.txt
+images/categories-img/test.txt
+images/login-images/test.txt
+images/icons/test.txt
+images/merlin-img/test.txt
 
